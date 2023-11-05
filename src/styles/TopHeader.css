@@ -1,0 +1,48 @@
+.topHeader {
+    font-size: 100%;
+    background-color: darkblue;
+
+    font-family: "Inter", sans-serif;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.header-logo {
+
+    font-size: 100%;
+    font-family: "Inter", sans-serif;
+    box-sizing: border-box;
+    position: absolute;
+    top: 2rem;
+    left: 1rem;
+    line-height: 1;
+    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
+    transition: all .3s ease;
+    width: auto;
+    max-width: 80%;
+    z-index: 100;
+    text-decoration: none;
+}
+
+.header-logo-mobile {
+
+    font-family: "Inter", sans-serif;
+    line-height: 1;
+    box-sizing: border-box;
+    transition: all .5s ease;
+    max-width: 100%;
+    height: auto;
+    width: 140px;
+}
+
+.header-text {
+
+    font-family: "Inter", sans-serif;
+    line-height: 1;
+    box-sizing: border-box;
+    transition: all .5s ease;
+    margin-left: 10px;
+    font-size: .85rem;
+}

@@ -5,7 +5,7 @@ import ldtrack from "../images/luggage-delivery-tracking.jpg";
 function Hero2() {
   return (
     <>
-      <div className="hero2">
+      <div className="hero">
         <div className="hero-img-container">
           <img className="hero-img" src={ldtrack}></img>
         </div>

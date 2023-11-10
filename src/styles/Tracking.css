@@ -18,3 +18,18 @@
     text-align: center;
     margin: 1em 0.5em;
 }
+
+@media screen and (width >=1024px) {
+
+
+    .tracking-p {
+
+        font-size: 20px;
+        font-style: bold;
+    }
+
+    .tracking-h1 {
+        font-size: 40px;
+
+    }
+}

@@ -1,10 +1,20 @@
 .topHeader {
     font-size: 100%;
-    background-color: darkblue;
-
+    background-color: white;
+    height: 100px;
     font-family: "Inter", sans-serif;
-    box-sizing: border-box;
-    position: relative;
+    position: fixed;
+    display: block;
+
+    /* top: 0;
+    left: 0; */
+    /* z-index: 8; */
+    width: 100%;
+    /* top: 0; */
+    /* left: 50; */
+    /* z-index: 10; */
+    /* margin-bottom: 200px; */
+    /* box-sizing: border-box; */
 }
 
 .header-logo {
@@ -23,6 +33,7 @@
     width: auto;
     max-width: 80%;
     z-index: 100;
+    margin-top: 1em;
     text-decoration: none;
 }
 

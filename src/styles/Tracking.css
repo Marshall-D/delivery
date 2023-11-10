@@ -1,0 +1,20 @@
+.tracking {
+    margin-top: 100px;
+    height: 600px;
+    /* background-color: brown; */
+    color: azure;
+    background-image: url(../images/courier.jpg);
+    display: block;
+}
+
+.tracking-p {
+    margin: 0 2em;
+    margin-top: 4em;
+    text-align: center;
+
+}
+
+.tracking-h1 {
+    text-align: center;
+    margin: 1em 0.5em;
+}

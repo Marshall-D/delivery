@@ -32,7 +32,42 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
+  }
+}
+
+.villain-container-desktop {
+  display: none;
+}
+
+.villain-container {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-evenly; */
+}
+
+@media screen and (width >=480px) {
+  .villain-container {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+  }
+
+  .villain-container-desktop {
+    display: none;
+  }
+}
+
+@media screen and (width >=980px) {
+  .villain-container-desktop {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+  }
+
+  .villain-container {
+    display: none;
   }
 }

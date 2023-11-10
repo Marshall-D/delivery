@@ -3,14 +3,8 @@ import "../styles/TopHeader.css";
 
 function Header() {
   return (
-    <div className="topHeader" style={{ backgroundColor: "blue" }}>
+    <div className="topHeader">
       <TopHeader />
-      {/* <div class="header__buttons"></div>
-      <div class="menu__burger hamburger hamburger--elastic">
-        <div class="hamburger-box">
-          <div class="hamburger-inner"></div>
-        </div>
-      </div> */}
     </div>
   );
 }

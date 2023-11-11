@@ -1,5 +1,6 @@
 import React from "react";
 import "../styles/Preheader.css";
+import { Link } from "react-router-dom";
 
 function TrackingForm() {
   return (
@@ -16,10 +17,15 @@ function TrackingForm() {
             //   placeholder=""
             required
           />
-
-          <button className="button" type="submit">
-            TRACK
-          </button>
+          <Link to="/tracking">
+            <button
+              className="button"
+              type="submit"
+              style={{ minWidth: "200px" }}
+            >
+              TRACK
+            </button>
+          </Link>
         </div>
       </div>
     </form>

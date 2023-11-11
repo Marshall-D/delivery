@@ -26,7 +26,7 @@ const Formatter = () => {
         <Hero3 />
       </div>
 
-      <PreHeader />
+      {/* <PreHeader /> */}
       <PreVillain />
       <div className="villain-container">
         <Villain />

@@ -11,8 +11,8 @@ function Villain3() {
         </div>
         <h4 className="villain-h4"> 3. Travel With Ease</h4>
         <p className="villain-p">
-          Skip through the airport and save time without carrying any luggage,
-          knowing your bags have been taken care of.
+          Skip through the stress and save time without overthinking, knowing
+          your bags have been taken care of.
         </p>
       </div>
     </>

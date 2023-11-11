@@ -9,10 +9,11 @@ const ContactSection = () => {
         <div className="contact-header">
           <h1 className="contact-h1">Customer Service</h1>
           <p className="contact-p">
-            We love to travel and know you do, too. That’s why we are dedicated
-            to providing you the travel experience you deserve. Feel free to
-            reach out to us if you have any questions. Our customer service team
-            is available 7 days a week via phone, chat, or email.
+            We love peace of mind and know you do, too. That’s why we are
+            dedicated to providing you the luggage delivery experience you
+            deserve. Feel free to reach out to us if you have any questions. Our
+            customer service team is available 7 days a week via phone, chat, or
+            email.
           </p>
         </div>
 

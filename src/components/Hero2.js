@@ -17,11 +17,11 @@ function Hero2() {
           </h3>
           <p className="hero-p">
             Knowing where your luggage is more important than you think. There
-            have been countless passengers that have lost their bags when flying
-            with an airline. That’s why you should choose a service that not
-            only offers tracking, but it should be in real-time. ShipGo not only
-            picks up your luggage, but you can track where your bags are. Go
-            ahead and relax on your vacation, we got it from here.
+            have been countless peole that have lost their luggages. That’s why
+            you should choose a service that not only offers tracking, but it
+            should be in real-time. Global Parcel not only picks up your
+            luggage, but you can track where your bags are. Go ahead and relax,
+            we got it from here.
           </p>
         </div>
       </div>
